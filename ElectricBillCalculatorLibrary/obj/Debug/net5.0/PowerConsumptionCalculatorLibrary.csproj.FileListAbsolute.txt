@@ -1,0 +1,12 @@
+C:\Users\Oswald Cobblepot\source\repos\ElectricBillCalculatorUI\ElectricBillCalculatorLibrary\bin\Debug\net5.0\PowerConsumptionCalculatorLibrary.deps.json
+C:\Users\Oswald Cobblepot\source\repos\ElectricBillCalculatorUI\ElectricBillCalculatorLibrary\bin\Debug\net5.0\PowerConsumptionCalculatorLibrary.dll
+C:\Users\Oswald Cobblepot\source\repos\ElectricBillCalculatorUI\ElectricBillCalculatorLibrary\bin\Debug\net5.0\ref\PowerConsumptionCalculatorLibrary.dll
+C:\Users\Oswald Cobblepot\source\repos\ElectricBillCalculatorUI\ElectricBillCalculatorLibrary\bin\Debug\net5.0\PowerConsumptionCalculatorLibrary.pdb
+C:\Users\Oswald Cobblepot\source\repos\ElectricBillCalculatorUI\ElectricBillCalculatorLibrary\obj\Debug\net5.0\PowerConsumptionCalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\Oswald Cobblepot\source\repos\ElectricBillCalculatorUI\ElectricBillCalculatorLibrary\obj\Debug\net5.0\PowerConsumptionCalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oswald Cobblepot\source\repos\ElectricBillCalculatorUI\ElectricBillCalculatorLibrary\obj\Debug\net5.0\PowerConsumptionCalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\Oswald Cobblepot\source\repos\ElectricBillCalculatorUI\ElectricBillCalculatorLibrary\obj\Debug\net5.0\PowerConsumptionCalculatorLibrary.AssemblyInfo.cs
+C:\Users\Oswald Cobblepot\source\repos\ElectricBillCalculatorUI\ElectricBillCalculatorLibrary\obj\Debug\net5.0\PowerConsumptionCalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Oswald Cobblepot\source\repos\ElectricBillCalculatorUI\ElectricBillCalculatorLibrary\obj\Debug\net5.0\PowerConsumptionCalculatorLibrary.dll
+C:\Users\Oswald Cobblepot\source\repos\ElectricBillCalculatorUI\ElectricBillCalculatorLibrary\obj\Debug\net5.0\ref\PowerConsumptionCalculatorLibrary.dll
+C:\Users\Oswald Cobblepot\source\repos\ElectricBillCalculatorUI\ElectricBillCalculatorLibrary\obj\Debug\net5.0\PowerConsumptionCalculatorLibrary.pdb

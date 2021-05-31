@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ElectricBillCalculatorUI/1.0.0": {
+        "dependencies": {
+          "PowerConsumptionCalculatorLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ElectricBillCalculatorUI.dll": {}
+        }
+      },
+      "PowerConsumptionCalculatorLibrary/1.0.0": {
+        "runtime": {
+          "PowerConsumptionCalculatorLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElectricBillCalculatorUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PowerConsumptionCalculatorLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
